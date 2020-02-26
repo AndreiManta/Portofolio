@@ -1,6 +1,5 @@
 jQuery(document).ready(function ($) {
 
-  // Header fixed and Back to top button
   $(window).scroll(function () {
     if ($(this).scrollTop() > 100) {
       $('.back-to-top').fadeIn('slow');
@@ -16,11 +15,7 @@ jQuery(document).ready(function ($) {
     }, 1500, 'easeInOutExpo');
     return false;
   });
-
-  // Initiate the wowjs
   new WOW().init();
-
-  // Initiate superfish on nav menu
   $('.nav-menu').superfish({
     animation: {
       opacity: 'show'
