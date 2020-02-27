@@ -1,6 +1,8 @@
 # pablo-designs
 Portfolio Website With Discord Intergration
 
+Discord Intergration: https://widgetbot.io/ https://docs.widgetbot.io/tutorial/
+
 Live Preview: https://0ii.github.io/pablo-designs/
  
 
