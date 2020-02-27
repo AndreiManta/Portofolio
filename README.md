@@ -1,5 +1,5 @@
 # pablo-designs
-Portfolio Website With Discord Intergration
+Portfolio Website With Discord Intergration And Custom Scrollbar With Preloader
 
 Discord Intergration: https://widgetbot.io/ https://docs.widgetbot.io/tutorial/
 
