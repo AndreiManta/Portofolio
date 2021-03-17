@@ -816,3 +816,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-top: 15px;
   }
 }
+
+ .text-center{
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+ }
